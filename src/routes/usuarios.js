@@ -1,0 +1,10 @@
+const Router = require('express');
+const router = Router();
+//const user = require('../models/usuarios');
+const usuariocontrolador = require('../Controladores/usuariocontrolador');
+router.post('/',usuariocontrolador.insertarusuario);
+router.get('/',usuariocontrolador.consultausuario);
+router.put('/:id',usuariocontrolador.actualizaruser);
+router.get('/:id',usuariocontrolador.consultausuarioid);
+router.delete('/:id',usuariocontrolador.eliminarusuario);
+module.exports = router;

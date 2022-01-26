@@ -1,0 +1,51 @@
+[
+  {
+    "Fecha_Ingreso":"10/12/2016",
+    "Id_Empleado":"1",
+    "Cedula":"12456",
+    "Correo_Electronico":"gohgonzalo@gmail.com",
+    "N_SeguroSocial":"123456",
+    "Puesto":"tester",
+    "Id_Datos_Generales":"2"
+  },
+  {
+    "Fecha_Ingreso":"10/12/2016",
+    "Id_Empleado":"2",
+    "Cedula":"12457",
+    "Correo_Electronico":"gohgonzalo@gmail.com",
+    "N_SeguroSocial":"123456",
+    "Empresa": "Corporacion SA de Cv",
+    "Puesto":"tester",
+    "Id_Datos_Generales":"4"
+  },
+  {
+    "Fecha_Ingreso":"10/12/2016",
+    "Id_Empleado":"3",
+    "Cedula":"12458",
+    "Correo_Electronico":"gohgonzalo@gmail.com",
+    "N_SeguroSocial":"123456",
+    "Empresa": "Corporacion SA de Cv",
+    "Puesto":"tester",
+    "Id_Datos_Generales":"6"
+  },
+  {
+    "Fecha_Ingreso":"10/12/2016",
+    "Id_Empleado":"4",
+    "Cedula":"12459",
+    "Correo_Electronico":"gohgonzalo@gmail.com",
+    "N_SeguroSocial":"123456",
+    "Empresa": "Corporacion SA de Cv",
+    "Puesto":"tester",
+    "Id_Datos_Generales":"8"
+  },
+  {
+    "Fecha_Ingreso":"10/12/2016",
+    "Id_Empleado":"5",
+    "Cedula":"12460",
+    "Correo_Electronico":"gohgonzalo@gmail.com",
+    "N_SeguroSocial":"123456",
+    "Empresa": "Corporacion SA de Cv",
+    "Puesto":"tester",
+    "Id_Datos_Generales":"10"
+  }
+]
